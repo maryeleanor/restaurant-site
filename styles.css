@@ -21,7 +21,7 @@
   position: relative;
   height: 400px;
   color: #000;
-  mix-blend-mode: lighten;
+/*   mix-blend-mode: lighten; */
 }
 
 .title {
